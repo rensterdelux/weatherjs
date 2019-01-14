@@ -1,0 +1,11 @@
+/Users/gordonrennie/Documents/Eyonzy/Eyonzy CRM/bin/Debug/netcoreapp2.2/Eyonzy CRM.deps.json
+/Users/gordonrennie/Documents/Eyonzy/Eyonzy CRM/bin/Debug/netcoreapp2.2/Eyonzy CRM.runtimeconfig.json
+/Users/gordonrennie/Documents/Eyonzy/Eyonzy CRM/bin/Debug/netcoreapp2.2/Eyonzy CRM.runtimeconfig.dev.json
+/Users/gordonrennie/Documents/Eyonzy/Eyonzy CRM/bin/Debug/netcoreapp2.2/Eyonzy CRM.dll
+/Users/gordonrennie/Documents/Eyonzy/Eyonzy CRM/bin/Debug/netcoreapp2.2/Eyonzy CRM.pdb
+/Users/gordonrennie/Documents/Eyonzy/Eyonzy CRM/obj/Debug/netcoreapp2.2/Eyonzy CRM.csprojAssemblyReference.cache
+/Users/gordonrennie/Documents/Eyonzy/Eyonzy CRM/obj/Debug/netcoreapp2.2/Eyonzy CRM.csproj.CoreCompileInputs.cache
+/Users/gordonrennie/Documents/Eyonzy/Eyonzy CRM/obj/Debug/netcoreapp2.2/Eyonzy CRM.AssemblyInfoInputs.cache
+/Users/gordonrennie/Documents/Eyonzy/Eyonzy CRM/obj/Debug/netcoreapp2.2/Eyonzy CRM.AssemblyInfo.cs
+/Users/gordonrennie/Documents/Eyonzy/Eyonzy CRM/obj/Debug/netcoreapp2.2/Eyonzy CRM.dll
+/Users/gordonrennie/Documents/Eyonzy/Eyonzy CRM/obj/Debug/netcoreapp2.2/Eyonzy CRM.pdb
